@@ -212,7 +212,7 @@ console.log("--------------------");
     
 
 
-product.deleteProduct();
+product.deleteProduct(4);
 
 
 
